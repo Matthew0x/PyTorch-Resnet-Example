@@ -1,3 +1,5 @@
+# This repository is synced
+
 # Implementation of Aman Kharwal's tutorial found at:
 ### https://thecleverprogrammer.com/2020/08/26/image-recognition-with-machine-learning-using-pytorch/
 
